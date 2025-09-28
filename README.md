@@ -3,7 +3,7 @@
 
 This repository contains my waybar config ([Waybar](https://github.com/Alexays/Waybar))
 
----
+<img width="1921" height="52" alt="image" src="https://github.com/user-attachments/assets/2355a340-10a1-4503-9e8e-96ce5d87ee47" />
 
 ## 📦 Requirements
 
